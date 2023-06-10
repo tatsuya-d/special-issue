@@ -23,3 +23,6 @@
 |レスポンスヘッダー|　ステータスラインに書ききれないレスポンスの情報。　|
 |レスポンスボディ|　相手が欲しがってたHTMLファイルの中身。　|
 |JSON| javascriptのオブジェクト記法をベースとしたデータ交換フォーマット。　|
+# 参照　　
+https://www.itmanage.co.jp/column/http-www-request-response-statuscode/
+https://qiita.com/
