@@ -34,7 +34,7 @@ MovieInfo : [
       ```
       {
       "title"："ショーシャンクの空に",
-      "director"："フランク・ダラボン"
+      "director"："フランク・ダラボン",
       "published_year"：1995
       } 
       ```
