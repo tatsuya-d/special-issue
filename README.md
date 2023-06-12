@@ -31,9 +31,11 @@ https://qiita.com/
 # JSON 映画情報
 
 MovieInfo : [
+      ```
       {
       "title"："ショーシャンクの空に",
       "director"："フランク・ダラボン"
       "published_year"：1995
-      }
-   ]
+      } 
+      ```
+      ]
